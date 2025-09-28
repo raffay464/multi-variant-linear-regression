@@ -25,7 +25,8 @@ Each variable is rated between **1–10**, simulating daily assessments.
 - The dependent variable (Productivity) was derived using a hypothetical relationship with independent variables.
 
 ## ⚙️ Methodology
-1. **Data Generation** – Created a 20-day dataset with controlled random values.
+1. **Data Generation**
+   – Created a 20-day dataset with controlled random values.
     
 2. **Exploratory Data Analysis (EDA)** –  
    - Scatter plots for feature-target relationships  
