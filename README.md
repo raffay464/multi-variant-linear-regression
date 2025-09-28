@@ -43,8 +43,7 @@ Each variable is rated between **1–10**, simulating daily assessments.
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Multi-Variant-Linear-Regression.git
-   cd Multi-Variant-Linear-Regression
+   git clone https://github.com/raffay464/multi-variant-linear-regression.git
 
 2. open notebook:
    jupyter notebook "Multi-variant LR.ipynb"
